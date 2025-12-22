@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Escapist",
+  "base_artist": "Nightwish",
+  "createdAt": "2025-12-22T12:04:47.015688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Escapist",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/01_The_Escapist_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Escapist (Instrumental Version)",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/02_The_Escapist_(Instrumental_Version)_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Escapist",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/03_Escapist_Nightwish.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Escapist",
+      "artist": "Oceans Ate Alaska",
+      "has_synced": true,
+      "path": "select/04_Escapist_Oceans_Ate_Alaska.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Death and All His Friends \u0000 The Escapist",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_Death_and_All_His_Friends_\u0000_The_Escapist_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Escapist",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/06_Escapist_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Escapist",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/07_Escapist_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Escapist (Instrumental Version)",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/08_Escapist_(Instrumental_Version)_Nightwish.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Death and All His Friends / The Escapist",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/09_Death_and_All_His_Friends___The_Escapist_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Escapist",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/10_Escapist_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Escapist",
+      "artist": "Nothington",
+      "has_synced": true,
+      "path": "select/11_The_Escapist_Nothington.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Death and All His Friends / The Escapist",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/12_Death_and_All_His_Friends___The_Escapist_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Escapist (Album Version)",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/13_Escapist_(Album_Version)_Nightwish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Escapist (non album track)",
+      "artist": "Nightwish",
+      "has_synced": true,
+      "path": "select/14_Escapist_(non_album_track)_Nightwish.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Escapist",
+      "artist": "Nightwish",
+      "has_synced": false,
+      "path": "select/pl_01_Escapist_Nightwish.txt"
+    }
+  ]
+}
